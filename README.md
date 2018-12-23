@@ -46,4 +46,5 @@ rails new hello # 建立 hello 專案
 cd hello
 bin/rails server
 ```
-打開瀏覽器輸入 localhost:3000 看到 Rails 歡迎畫面
+打開瀏覽器輸入 `http://localhost:3000` 看到 Rails 歡迎畫面
+![Welcome Rails](./images/localhost_3000_.png)
