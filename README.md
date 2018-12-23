@@ -48,3 +48,16 @@ bin/rails server
 ```
 打開瀏覽器輸入 `http://localhost:3000` 看到 Rails 歡迎畫面
 ![Welcome Rails](./images/localhost_3000_.png)
+
+## 常用命令
+| 指令 | 說明 |
+| --- | --- |
+| cd | 切換目錄 |
+| pwd | 顯示目前位置 |
+| ls | 列出檔案目錄列表 |
+| mkdir | 建立目錄 |
+| touch | 建立檔案 |
+| cp | 複製檔案 |
+| mv | 移動檔案 |
+| rm | 移除檔案 |
+| sudo | 暫時取得權限 |
